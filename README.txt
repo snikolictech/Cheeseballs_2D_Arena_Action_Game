@@ -7,7 +7,7 @@ How to Use this Project:
 ========================
 
 
-Step 1: Load the Asset Package into Unity
+Step 1: Load the Asset Package into Unity or copy to Assets folder
 
 Step 2: Open the 'MainGame' Scene in the Assets > Scenes folder
 
