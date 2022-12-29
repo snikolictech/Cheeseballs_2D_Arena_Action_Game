@@ -1,6 +1,6 @@
 CheeseBalls: Arena Battlegeddon
 2D Action Game Project
-Courtesy of DevU.com
+Originally Created by Steven Nikolic for Developer University
 
 
 How to Use this Project:
@@ -20,8 +20,6 @@ Step 5: Observe How the GameObjects and Attached Components are Set Up
 Step 6: See the 'Script Synopsis' at the Top of Each Script File
 
 
+Full lessons detailing construction have been moved to:
 
-For in-depth video lesson tutorials showing how this game was constructed step-by-step, go to:
-
-
-http://www.devu.com/unity
+https://neondagger.com/learn-game-coding-c-sharp-unity-gamedev/
